@@ -1,5 +1,5 @@
 # AgeevaVera_presentation
 
-[Посмотрите мой проект MESTO на GitHub Pages.](https://ageevdmitryminsk.github.io/mesto/src/index.html)
+[Посмотрите мое резюме на GitHub Pages.](https://ageevdmitryminsk.github.io/AgeevaVera_presentation/index.html)
 
-https://ageevdmitryminsk.github.io/mesto/src/index.html
+https://ageevdmitryminsk.github.io/AgeevaVera_presentation/index.html
